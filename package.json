@@ -1,0 +1,14 @@
+{
+  "name": "fullstack-withvuejs",
+  "version": "1.0.0",
+  "description": "fullstack-vuejs-Express",
+  "main": "index.js",
+  "scripts": {
+    
+    "start": "node server/index.js",
+    "dev":   "nodemon server/index.js"
+    
+  },
+  "author": "Amber karki",
+  "license": "MIT"
+}
